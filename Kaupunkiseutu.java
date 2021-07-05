@@ -83,9 +83,10 @@ public class Kaupunkiseutu {
 		Kaupunkiseutu seutu11 = new Kaupunkiseutu("Turku", false, false, false, false); //!
 		Kaupunkiseutu seutu12 = new Kaupunkiseutu("Odense", false, true, false, true);
 		Kaupunkiseutu seutu13 = new Kaupunkiseutu("Aalborg", false, false, false, true);
-		Kaupunkiseutu seutu14 = new Kaupunkiseutu("Trondheim", true, false, false, true);
-		Kaupunkiseutu seutu15 = new Kaupunkiseutu("Reykjavik", false, false, false, false);
-		Kaupunkiseutu seutu16 = new Kaupunkiseutu("Oulu", false, false, false, false);
+		Kaupunkiseutu seutu14 = new Kaupunkiseutu("Uppsala", false, false, false, true);
+		Kaupunkiseutu seutu15 = new Kaupunkiseutu("Trondheim", true, false, false, true);
+		Kaupunkiseutu seutu16 = new Kaupunkiseutu("Reykjavik", false, false, false, false);
+		Kaupunkiseutu seutu17 = new Kaupunkiseutu("Oulu", false, false, false, false);
 
 		System.out.println(seutu01);
 		System.out.println(seutu02);
